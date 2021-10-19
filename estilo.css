@@ -1,0 +1,39 @@
+.banner {
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.banner.js {
+    background-color: yellow;
+}
+
+.banner.python {
+    background-color: rgb(74, 136, 252);
+}
+
+.banner.git {
+    background-color: black;
+}
+
+.texto {
+    margin-bottom: 50px;
+}
+
+.texto-contenedor {
+    margin-right: 50px;
+}
+
+.flex {
+    display: flex;
+}
+
+.derecha {
+    width: 30%;
+}
+
+.derecha img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 50px;
+}
